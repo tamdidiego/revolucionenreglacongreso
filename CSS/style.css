@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0; }
+
+nav {
+  background-color: #CFAFAF;
+  padding: 1em; }
+  nav ul {
+    text-align: center; }
+  nav a {
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1em; }
+
+h1, h2, h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 2em;
+  color: whitesmoke; }
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
+  line-height: 1.3em;
+  color: whitesmoke; }
+
+main {
+  display: flex; }
+
+.editSection{
+  width: 50%;
+  padding: 1em;
+  background-color: #b08968; }
+
+footer {
+  background-color: #CFAFAF;
+  padding: 1em; }
+
+ footer p {
+    text-align: center;
+    color: whitesmoke; }
+
+body {
+  background-color: #ede0d4; }
+
+  .section__banner{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+  }
+
+  .section__video{
+      margin: 50px;
+      display: grid;
+      justify-content: center;
+  }
+  
+ .section__form{
+   width: 90%;
+   display: grid;
+   justify-content: center;
+ }
+
+ .container{
+   margin: 50px;
+   transform: translate(25px, 50px);   
+ }
+
+ .form-group {
+  position: relative;
+ }
+
+ .carousel-item{
+  max-width: 100%;
+ }
+
+ .carousel-item{
+  text-align: center;
+ }
+
+.quienessomos{
+  display: flex;
+  align-self: center;
+}
+
+.contact{
+  text-align: center;
+}
+
+a{
+  color: black!important;
+  text-decoration: none!important;
+}
+
+.list{
+  list-style: none;
+}
+
+.colorBlack{
+  padding: 10px;
+  color: black;
+}
+
+.form{
+  padding: 1rem;
+  margin: 1rem;
+}

@@ -1,0 +1,27 @@
+h1, h2, h3{
+	font-family: $fontMain;
+	font-size: $fontSizeBig;
+	color:$fontColorWhite;
+}
+
+p{
+	font-family: $fontMain;
+	font-size: $fontSizeMedium;
+	line-height: 1.3em;
+	color:$fontColorWhite;
+}
+
+main{
+	display: $d-flex;
+}
+
+section{
+	width: $w-50;
+	padding: $p;
+	background-color: $bg-success;
+}
+
+aside{
+	padding:$p;
+	background-color: $bg-info;
+}
