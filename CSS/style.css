@@ -46,7 +46,7 @@ body {
   }
 
   .section__video{
-    margin: 50px;
+    margin: 5vw;
     display: grid;
     justify-content: center;
 }
