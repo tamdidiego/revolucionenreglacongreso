@@ -46,17 +46,20 @@ body {
   }
 
   .section__video{
-      margin: 50px;
-      display: grid;
-      justify-content: center;
-  }
-  
+    margin: 50px;
+    display: grid;
+    justify-content: center;
+}
+
  .section__form{
    width: 90%;
    display: grid;
    justify-content: center;
  }
 
+ .section__text{
+   margin: 2rem;
+ }
  .form-group {
   position: relative;
  }
@@ -69,11 +72,6 @@ body {
   text-align: center;
  }
 
-.quienessomos{
-  display: flex;
-  align-self: center;
-}
-
 .contact{
   text-align: center;
 }
@@ -83,9 +81,6 @@ a{
   text-decoration: none!important;
 }
 
-.list{
-  list-style: none;
-}
 
 .colorBlack{
   padding: 10px;
