@@ -16,21 +16,16 @@ nav {
 h1, h2, h3 {
   font-family: "Open Sans", sans-serif;
   font-size: 2em;
-  color: whitesmoke; }
+  color: black; }
 
 p {
   font-family: "Open Sans", sans-serif;
   font-size: 1em;
   line-height: 1.3em;
-  color: whitesmoke; }
+  color: black; }
 
 main {
   display: flex; }
-
-.editSection{
-  width: 50%;
-  padding: 1em;
-  background-color: #b08968; }
 
 footer {
   background-color: #CFAFAF;
@@ -105,3 +100,4 @@ a{
   padding: 1rem;
   margin: 1rem;
 }
+
